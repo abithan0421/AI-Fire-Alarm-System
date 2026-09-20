@@ -15,10 +15,5 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Model files (optional)
-*.pt
-*.pth
-*.onnx
-
 # Logs
 *.log
